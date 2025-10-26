@@ -5,7 +5,7 @@
 #Ximena Castro Flores
 #10/Octubre/25
 #entrdas
-numero = int(input("Dame un numero para ver si es primo: "))
+numero = int(input("Dame un numero: "))
 primo = False
 #desarrollo
 for n in range(2,numero):
