@@ -14,4 +14,4 @@ for n in range(2,numero):
     break
 else:
   primo =True
-  print("el numero",numero," es primo")#Salida
+  print("el numero",numero, "sí es primo")#Salida
